@@ -48,7 +48,7 @@ const config = {
             {
                 inGameName: "McDev",
                 rank: "Founder",
-                skinUrlOrPathToFile: "../images/mcdev.png",
+                skinUrlOrPathToFile: "../images/mcdev.jpg",
                 rankColor: "rgba(255, 3, 3, 1)"
             },
             {
