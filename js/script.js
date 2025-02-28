@@ -48,13 +48,13 @@ const config = {
             {
                 inGameName: "McDev",
                 rank: "Founder",
-                skinUrlOrPathToFile: "https://i.imghippo.com/files/Ggmb2647ohg.png",
+                skinUrlOrPathToFile: "i.imghippo.com/files/Ggmb2647ohg.png",
                 rankColor: "rgba(255, 3, 3, 1)"
             },
             {
                 inGameName: "Irtiz",
                 rank: "Founder",
-                skinUrlOrPathToFile: "../images/dwi.png",
+                skinUrlOrPathToFile: "i.imghippo.com/files/Ggmb2647ohg.png",
                 rankColor: "rgba(255, 3, 3, 1)"
             },
             {
