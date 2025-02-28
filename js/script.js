@@ -100,7 +100,7 @@ const config = {
             {
                 inGameName: "Abella",
                 rank: "Goddess",
-                skinUrlOrPathToFile: "https://minesk.in/b83ad6896c484d9c9631658f58bfd475",
+                skinUrlOrPathToFile: "abella.png",
                 rankColor: "rgba(255, 3, 3, 1)"
             },
             {
