@@ -48,7 +48,7 @@ const config = {
             {
                 inGameName: "McDev",
                 rank: "Founder",
-                skinUrlOrPathToFile: "https://minesk.in/70b663342776407dab68bc8aa1a93bda",
+                skinUrlOrPathToFile: "https://my.minecraft.net/profile/skin/remote?url=https://storage.googleapis.com/tmp.novaskin.me/03c831703e7f62362929457c46fdc3512ed87f2f1527b955b3d9353da263b60a",
                 rankColor: "rgba(255, 3, 3, 1)"
             },
             {
