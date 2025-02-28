@@ -48,7 +48,7 @@ const config = {
             {
                 inGameName: "McDev",
                 rank: "Founder",
-                skinUrlOrPathToFile: "https://storage.googleapis.com/tmp.novaskin.me/03c831703e7f62362929457c46fdc3512ed87f2f1527b955b3d9353da263b60a",
+                skinUrlOrPathToFile: "https://www.minecraftskins.com/skin/23087388/chillin-skeleton/",
                 rankColor: "rgba(255, 3, 3, 1)"
             },
             {
