@@ -48,7 +48,7 @@ const config = {
             {
                 inGameName: "McDev",
                 rank: "Founder",
-                skinUrlOrPathToFile: "",
+                skinUrlOrPathToFile: "https://minesk.in/70b663342776407dab68bc8aa1a93bda",
                 rankColor: "rgba(255, 3, 3, 1)"
             },
             {
